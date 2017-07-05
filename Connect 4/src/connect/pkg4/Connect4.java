@@ -6,7 +6,6 @@ import java.util.Scanner;
  * @author Jake
  * Connect 4 is the basic connect 4 game
  * Play against a human or computer opponent.
- * Computer opponents will have savage banter.
  */
 public class Connect4 
 {
