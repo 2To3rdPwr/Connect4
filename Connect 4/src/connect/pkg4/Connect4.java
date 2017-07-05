@@ -109,7 +109,7 @@ public class Connect4
             }
         }
         else
-            System.out.println("[Joshua] Since you obviously don't understand anything at all about connect four, I'm not even going to humor your single brain cell with this game.\n Burger King is that way. Enjoy being a part of the bottom 1% for the rest of your life.");
+            System.out.println("Sorry. Connect4 is either 1 or 2 players.");
     }
     
 }
